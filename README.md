@@ -8,6 +8,11 @@
 
 #AIML [Lab-4](https://github.com/HarshanBathini/harshan1559-AIMl/blob/main/LAB-4.ipynb)
 
+#AIML [Lab-5](https://github.com/HarshanBathini/harshan1559-AIMl/blob/main/LAB%20-%205.ipynb)
+
+
+
+
 
 
 
