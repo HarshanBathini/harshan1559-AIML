@@ -14,6 +14,12 @@
 
 #AIML [Lab-7](https://github.com/HarshanBathini/harshan1559-AIMl/blob/main/AIMLLAB7%20(1).ipynb)
 
+#AIML [Lab-8](https://github.com/HarshanBathini/harshan1559-AIMl/blob/main/AIMLLAB8%20(1).ipynb)
+
+
+
+
+
 
 
 
